@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "fName": "Erik",
+            "lName": "Lew",
+            "userName": "eriiklew",
+            "email": "ek.lew99@gmail.com",
+            "scores": [],
+            "lastActive": 513451243,
+            "points": 1000
+        }
+    ]
+}

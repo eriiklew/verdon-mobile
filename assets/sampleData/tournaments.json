@@ -1,0 +1,54 @@
+{
+    "tournaments": [
+        {
+            "id": 1,
+            "name": "fortnite most wins",
+            "game": {
+                "game_id": 12,
+                "name": "fortnite"
+            },
+            "maxCapacity": 100,
+            "endsOn": 35231244,
+            "leaderboard": [
+                {
+                    "score_id": 123412,
+                    "user": {
+                        "user_id": 51,
+                        "user_name": "erik"
+                    },
+                    "user_score": 1000
+                },
+                {
+                    "user_id": 951404,
+                    "user": {
+                        "user_id": 69,
+                        "user_name": "will"
+                    },
+                    "user_score": 1254
+                },
+                {
+                    "user_id": 189851,
+                    "user": {
+                        "user_id": 42,
+                        "user_name": "tom"
+                    },
+                    "user_score": 1398
+                }
+            ],
+            "participants": [
+                {
+                    "user_id": 42,
+                    "user_name": "tom"
+                },
+                {
+                    "user_id": 69,
+                    "user_name": "will"
+                },
+                {
+                    "user_id": 51,
+                    "user_name": "erik"
+                }
+            ]
+        }
+    ]
+}
